@@ -1,0 +1,174 @@
+
+##### 2025/05/20 19:59:41
+----- [Server@192.168.56.1:35000] Result:
+ 
+Node id: Server@192.168.56.1:35000
+Recipes: {cdayxnkc=[cdayxnkc, Content--cdayxnkc, Server@192.168.56.1:35000]}
+Log: AddOperation [recipe=[cidjmhtu, Content--cidjmhtu, Server@192.168.56.1:35004], timestamp=Server@192.168.56.1:35004:   0]
+AddOperation [recipe=[qiqvwgtr, Content--qiqvwgtr, Server@192.168.56.1:35004], timestamp=Server@192.168.56.1:35004:   1]
+AddOperation [recipe=[kaabsscv, Content--kaabsscv, Server@192.168.56.1:35004], timestamp=Server@192.168.56.1:35004:   2]
+AddOperation [recipe=[vxqosdgc, Content--vxqosdgc, Server@192.168.56.1:35004], timestamp=Server@192.168.56.1:35004:   3]
+AddOperation [recipe=[hhewhbol, Content--hhewhbol, Server@192.168.56.1:35004], timestamp=Server@192.168.56.1:35004:   4]
+AddOperation [recipe=[lyqvkqpl, Content--lyqvkqpl, Server@192.168.56.1:35004], timestamp=Server@192.168.56.1:35004:   5]
+AddOperation [recipe=[oupcigig, Content--oupcigig, Server@192.168.56.1:35004], timestamp=Server@192.168.56.1:35004:   6]
+AddOperation [recipe=[jyfaxbsf, Content--jyfaxbsf, Server@192.168.56.1:35004], timestamp=Server@192.168.56.1:35004:   7]
+AddOperation [recipe=[vawdrqco, Content--vawdrqco, Server@192.168.56.1:35004], timestamp=Server@192.168.56.1:35004:   8]
+AddOperation [recipe=[fnhclbsp, Content--fnhclbsp, Server@192.168.56.1:35003], timestamp=Server@192.168.56.1:35003:   0]
+AddOperation [recipe=[j^mnchwe, Content--j^mnchwe, Server@192.168.56.1:35003], timestamp=Server@192.168.56.1:35003:   1]
+AddOperation [recipe=[cmixebpt, Content--cmixebpt, Server@192.168.56.1:35003], timestamp=Server@192.168.56.1:35003:   2]
+AddOperation [recipe=[lg^nnqtj, Content--lg^nnqtj, Server@192.168.56.1:35002], timestamp=Server@192.168.56.1:35002:   0]
+AddOperation [recipe=[xjejmkqm, Content--xjejmkqm, Server@192.168.56.1:35002], timestamp=Server@192.168.56.1:35002:   1]
+AddOperation [recipe=[limdxaxn, Content--limdxaxn, Server@192.168.56.1:35002], timestamp=Server@192.168.56.1:35002:   2]
+AddOperation [recipe=[dcqolbnv, Content--dcqolbnv, Server@192.168.56.1:35001], timestamp=Server@192.168.56.1:35001:   0]
+AddOperation [recipe=[pdwvdiqr, Content--pdwvdiqr, Server@192.168.56.1:35001], timestamp=Server@192.168.56.1:35001:   1]
+AddOperation [recipe=[ynkynyry, Content--ynkynyry, Server@192.168.56.1:35001], timestamp=Server@192.168.56.1:35001:   2]
+AddOperation [recipe=[hvwglpvr, Content--hvwglpvr, Server@192.168.56.1:35001], timestamp=Server@192.168.56.1:35001:   3]
+AddOperation [recipe=[lhlgerqx, Content--lhlgerqx, Server@192.168.56.1:35001], timestamp=Server@192.168.56.1:35001:   4]
+AddOperation [recipe=[vbkgxoxp, Content--vbkgxoxp, Server@192.168.56.1:35001], timestamp=Server@192.168.56.1:35001:   5]
+AddOperation [recipe=[fqrdbuuy, Content--fqrdbuuy, Server@192.168.56.1:35001], timestamp=Server@192.168.56.1:35001:   6]
+AddOperation [recipe=[cdayxnkc, Content--cdayxnkc, Server@192.168.56.1:35000], timestamp=Server@192.168.56.1:35000:   0]
+
+Summary: Server@192.168.56.1:35004:   8
+Server@192.168.56.1:35003:   2
+Server@192.168.56.1:35002:   3
+Server@192.168.56.1:35001:   6
+Server@192.168.56.1:35000:   0
+
+Ack: Server@192.168.56.1:35004:   Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35000:   -1000
+
+Server@192.168.56.1:35003:   Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35000:   -1000
+
+Server@192.168.56.1:35002:   Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35000:   -1000
+
+Server@192.168.56.1:35001:   Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35000:   -1000
+
+Server@192.168.56.1:35000:   Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35000:   -1000
+
+
+##### 2025/05/20 19:59:41
+----- [Server@192.168.56.1:35001] Result:
+ 
+Node id: Server@192.168.56.1:35001
+Recipes: {dcqolbnv=[dcqolbnv, Content--dcqolbnv, Server@192.168.56.1:35001], fqrdbuuy=[fqrdbuuy, Content--fqrdbuuy, Server@192.168.56.1:35001], hvwglpvr=[hvwglpvr, Content--hvwglpvr, Server@192.168.56.1:35001], lhlgerqx=[lhlgerqx, Content--lhlgerqx, Server@192.168.56.1:35001], pdwvdiqr=[pdwvdiqr, Content--pdwvdiqr, Server@192.168.56.1:35001], vbkgxoxp=[vbkgxoxp, Content--vbkgxoxp, Server@192.168.56.1:35001], ynkynyry=[ynkynyry, Content--ynkynyry, Server@192.168.56.1:35001]}
+Log: AddOperation [recipe=[cidjmhtu, Content--cidjmhtu, Server@192.168.56.1:35004], timestamp=Server@192.168.56.1:35004:   0]
+AddOperation [recipe=[kaabsscv, Content--kaabsscv, Server@192.168.56.1:35004], timestamp=Server@192.168.56.1:35004:   2]
+AddOperation [recipe=[vxqosdgc, Content--vxqosdgc, Server@192.168.56.1:35004], timestamp=Server@192.168.56.1:35004:   3]
+AddOperation [recipe=[jyfaxbsf, Content--jyfaxbsf, Server@192.168.56.1:35004], timestamp=Server@192.168.56.1:35004:   7]
+AddOperation [recipe=[vawdrqco, Content--vawdrqco, Server@192.168.56.1:35004], timestamp=Server@192.168.56.1:35004:   8]
+AddOperation [recipe=[j^mnchwe, Content--j^mnchwe, Server@192.168.56.1:35003], timestamp=Server@192.168.56.1:35003:   1]
+AddOperation [recipe=[lg^nnqtj, Content--lg^nnqtj, Server@192.168.56.1:35002], timestamp=Server@192.168.56.1:35002:   0]
+AddOperation [recipe=[xjejmkqm, Content--xjejmkqm, Server@192.168.56.1:35002], timestamp=Server@192.168.56.1:35002:   1]
+AddOperation [recipe=[iehbvsjs, Content--iehbvsjs, Server@192.168.56.1:35002], timestamp=Server@192.168.56.1:35002:   3]
+AddOperation [recipe=[dcqolbnv, Content--dcqolbnv, Server@192.168.56.1:35001], timestamp=Server@192.168.56.1:35001:   0]
+AddOperation [recipe=[pdwvdiqr, Content--pdwvdiqr, Server@192.168.56.1:35001], timestamp=Server@192.168.56.1:35001:   1]
+AddOperation [recipe=[ynkynyry, Content--ynkynyry, Server@192.168.56.1:35001], timestamp=Server@192.168.56.1:35001:   2]
+AddOperation [recipe=[hvwglpvr, Content--hvwglpvr, Server@192.168.56.1:35001], timestamp=Server@192.168.56.1:35001:   3]
+AddOperation [recipe=[lhlgerqx, Content--lhlgerqx, Server@192.168.56.1:35001], timestamp=Server@192.168.56.1:35001:   4]
+AddOperation [recipe=[vbkgxoxp, Content--vbkgxoxp, Server@192.168.56.1:35001], timestamp=Server@192.168.56.1:35001:   5]
+AddOperation [recipe=[fqrdbuuy, Content--fqrdbuuy, Server@192.168.56.1:35001], timestamp=Server@192.168.56.1:35001:   6]
+
+Summary: Server@192.168.56.1:35004:   8
+Server@192.168.56.1:35003:   2
+Server@192.168.56.1:35002:   3
+Server@192.168.56.1:35001:   6
+Server@192.168.56.1:35000:   0
+
+Ack: Server@192.168.56.1:35004:   Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35000:   -1000
+
+Server@192.168.56.1:35003:   Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35000:   -1000
+
+Server@192.168.56.1:35002:   Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35000:   -1000
+
+Server@192.168.56.1:35001:   Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35000:   -1000
+
+Server@192.168.56.1:35000:   Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35000:   -1000
+
+
+##### 2025/05/20 19:59:41
+----- [Server@192.168.56.1:35002] Result:
+ 
+Node id: Server@192.168.56.1:35002
+Recipes: {iehbvsjs=[iehbvsjs, Content--iehbvsjs, Server@192.168.56.1:35002], lg^nnqtj=[lg^nnqtj, Content--lg^nnqtj, Server@192.168.56.1:35002], limdxaxn=[limdxaxn, Content--limdxaxn, Server@192.168.56.1:35002], xjejmkqm=[xjejmkqm, Content--xjejmkqm, Server@192.168.56.1:35002]}
+Log: AddOperation [recipe=[j^mnchwe, Content--j^mnchwe, Server@192.168.56.1:35003], timestamp=Server@192.168.56.1:35003:   1]
+AddOperation [recipe=[lg^nnqtj, Content--lg^nnqtj, Server@192.168.56.1:35002], timestamp=Server@192.168.56.1:35002:   0]
+AddOperation [recipe=[xjejmkqm, Content--xjejmkqm, Server@192.168.56.1:35002], timestamp=Server@192.168.56.1:35002:   1]
+AddOperation [recipe=[limdxaxn, Content--limdxaxn, Server@192.168.56.1:35002], timestamp=Server@192.168.56.1:35002:   2]
+AddOperation [recipe=[iehbvsjs, Content--iehbvsjs, Server@192.168.56.1:35002], timestamp=Server@192.168.56.1:35002:   3]
+
+Summary: Server@192.168.56.1:35004:   8
+Server@192.168.56.1:35003:   2
+Server@192.168.56.1:35002:   3
+Server@192.168.56.1:35001:   6
+Server@192.168.56.1:35000:   0
+
+Ack: Server@192.168.56.1:35004:   Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35000:   -1000
+
+Server@192.168.56.1:35003:   Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35000:   -1000
+
+Server@192.168.56.1:35002:   Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35000:   -1000
+
+Server@192.168.56.1:35001:   Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35000:   -1000
+
+Server@192.168.56.1:35000:   Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35000:   -1000
+
+================================================

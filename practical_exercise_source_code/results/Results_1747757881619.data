@@ -1,0 +1,2274 @@
+
+##### 2025/05/20 18:18:01
+----- [Server@192.168.56.1:35001] Result:
+ 
+Node id: Server@192.168.56.1:35001
+Recipes: {isflyqkw=[isflyqkw, Content--isflyqkw, Server@192.168.56.1:35001], ngihjfle=[ngihjfle, Content--ngihjfle, Server@192.168.56.1:35001], nyvqmkfn=[nyvqmkfn, Content--nyvqmkfn, Server@192.168.56.1:35001], tyedytlc=[tyedytlc, Content--tyedytlc, Server@192.168.56.1:35001]}
+Log: AddOperation [recipe=[gyjbjejr, Content--gyjbjejr, Server@192.168.56.1:35010], timestamp=Server@192.168.56.1:35010:   0]
+AddOperation [recipe=[ktqdgndm, Content--ktqdgndm, Server@192.168.56.1:35003], timestamp=Server@192.168.56.1:35003:   0]
+AddOperation [recipe=[pjtbefbs, Content--pjtbefbs, Server@192.168.56.1:35014], timestamp=Server@192.168.56.1:35014:   2]
+AddOperation [recipe=[hukgmntt, Content--hukgmntt, Server@192.168.56.1:35014], timestamp=Server@192.168.56.1:35014:   3]
+AddOperation [recipe=[dwbvhusl, Content--dwbvhusl, Server@192.168.56.1:35014], timestamp=Server@192.168.56.1:35014:   4]
+AddOperation [recipe=[loqhwbko, Content--loqhwbko, Server@192.168.56.1:35002], timestamp=Server@192.168.56.1:35002:   3]
+AddOperation [recipe=[xmormjqp, Content--xmormjqp, Server@192.168.56.1:35002], timestamp=Server@192.168.56.1:35002:   4]
+AddOperation [recipe=[bufbhhxt, Content--bufbhhxt, Server@192.168.56.1:35002], timestamp=Server@192.168.56.1:35002:   5]
+AddOperation [recipe=[exfbphoh, Content--exfbphoh, Server@192.168.56.1:35002], timestamp=Server@192.168.56.1:35002:   6]
+AddOperation [recipe=[cjcmogcy, Content--cjcmogcy, Server@192.168.56.1:35002], timestamp=Server@192.168.56.1:35002:   7]
+AddOperation [recipe=[toeokbtk, Content--toeokbtk, Server@192.168.56.1:35013], timestamp=Server@192.168.56.1:35013:   0]
+AddOperation [recipe=[wfdjepoe, Content--wfdjepoe, Server@192.168.56.1:35013], timestamp=Server@192.168.56.1:35013:   3]
+AddOperation [recipe=[gokqbgkv, Content--gokqbgkv, Server@192.168.56.1:35013], timestamp=Server@192.168.56.1:35013:   5]
+AddOperation [recipe=[kuubrprn, Content--kuubrprn, Server@192.168.56.1:35013], timestamp=Server@192.168.56.1:35013:   6]
+AddOperation [recipe=[ngihjfle, Content--ngihjfle, Server@192.168.56.1:35001], timestamp=Server@192.168.56.1:35001:   0]
+AddOperation [recipe=[nyvqmkfn, Content--nyvqmkfn, Server@192.168.56.1:35001], timestamp=Server@192.168.56.1:35001:   1]
+AddOperation [recipe=[tyedytlc, Content--tyedytlc, Server@192.168.56.1:35001], timestamp=Server@192.168.56.1:35001:   2]
+AddOperation [recipe=[isflyqkw, Content--isflyqkw, Server@192.168.56.1:35001], timestamp=Server@192.168.56.1:35001:   3]
+AddOperation [recipe=[hsivbgva, Content--hsivbgva, Server@192.168.56.1:35012], timestamp=Server@192.168.56.1:35012:   0]
+AddOperation [recipe=[kiaxwgij, Content--kiaxwgij, Server@192.168.56.1:35012], timestamp=Server@192.168.56.1:35012:   1]
+AddOperation [recipe=[hyulwycc, Content--hyulwycc, Server@192.168.56.1:35012], timestamp=Server@192.168.56.1:35012:   2]
+AddOperation [recipe=[xkkwhqap, Content--xkkwhqap, Server@192.168.56.1:35000], timestamp=Server@192.168.56.1:35000:   1]
+AddOperation [recipe=[tcunbpcv, Content--tcunbpcv, Server@192.168.56.1:35000], timestamp=Server@192.168.56.1:35000:   2]
+AddOperation [recipe=[rixuhiqx, Content--rixuhiqx, Server@192.168.56.1:35011], timestamp=Server@192.168.56.1:35011:   0]
+AddOperation [recipe=[mefeychf, Content--mefeychf, Server@192.168.56.1:35007], timestamp=Server@192.168.56.1:35007:   0]
+AddOperation [recipe=[ettyiwrn, Content--ettyiwrn, Server@192.168.56.1:35006], timestamp=Server@192.168.56.1:35006:   2]
+AddOperation [recipe=[jkabhfnh, Content--jkabhfnh, Server@192.168.56.1:35006], timestamp=Server@192.168.56.1:35006:   3]
+AddOperation [recipe=[urvgcnev, Content--urvgcnev, Server@192.168.56.1:35006], timestamp=Server@192.168.56.1:35006:   4]
+AddOperation [recipe=[gxtaadox, Content--gxtaadox, Server@192.168.56.1:35006], timestamp=Server@192.168.56.1:35006:   5]
+AddOperation [recipe=[cselowra, Content--cselowra, Server@192.168.56.1:35005], timestamp=Server@192.168.56.1:35005:   0]
+AddOperation [recipe=[ixtvkjsx, Content--ixtvkjsx, Server@192.168.56.1:35005], timestamp=Server@192.168.56.1:35005:   1]
+AddOperation [recipe=[fxfcahhm, Content--fxfcahhm, Server@192.168.56.1:35005], timestamp=Server@192.168.56.1:35005:   2]
+AddOperation [recipe=[tdmxdqou, Content--tdmxdqou, Server@192.168.56.1:35005], timestamp=Server@192.168.56.1:35005:   3]
+AddOperation [recipe=[swyfduxh, Content--swyfduxh, Server@192.168.56.1:35005], timestamp=Server@192.168.56.1:35005:   4]
+AddOperation [recipe=[nnbdmrei, Content--nnbdmrei, Server@192.168.56.1:35004], timestamp=Server@192.168.56.1:35004:   1]
+AddOperation [recipe=[ppknklyd, Content--ppknklyd, Server@192.168.56.1:35009], timestamp=Server@192.168.56.1:35009:   0]
+AddOperation [recipe=[fscufllj, Content--fscufllj, Server@192.168.56.1:35009], timestamp=Server@192.168.56.1:35009:   1]
+AddOperation [recipe=[tqcqfojn, Content--tqcqfojn, Server@192.168.56.1:35009], timestamp=Server@192.168.56.1:35009:   2]
+AddOperation [recipe=[yjitfyag, Content--yjitfyag, Server@192.168.56.1:35008], timestamp=Server@192.168.56.1:35008:   0]
+AddOperation [recipe=[vrfdiosv, Content--vrfdiosv, Server@192.168.56.1:35008], timestamp=Server@192.168.56.1:35008:   1]
+AddOperation [recipe=[guslaojx, Content--guslaojx, Server@192.168.56.1:35008], timestamp=Server@192.168.56.1:35008:   2]
+AddOperation [recipe=[wisiuqiv, Content--wisiuqiv, Server@192.168.56.1:35008], timestamp=Server@192.168.56.1:35008:   3]
+AddOperation [recipe=[mqusnltx, Content--mqusnltx, Server@192.168.56.1:35008], timestamp=Server@192.168.56.1:35008:   5]
+AddOperation [recipe=[gggfprdj, Content--gggfprdj, Server@192.168.56.1:35008], timestamp=Server@192.168.56.1:35008:   6]
+
+Summary: Server@192.168.56.1:35010:   1
+Server@192.168.56.1:35003:   0
+Server@192.168.56.1:35014:   4
+Server@192.168.56.1:35002:   7
+Server@192.168.56.1:35013:   7
+Server@192.168.56.1:35001:   3
+Server@192.168.56.1:35012:   2
+Server@192.168.56.1:35000:   2
+Server@192.168.56.1:35011:   3
+Server@192.168.56.1:35007:   0
+Server@192.168.56.1:35006:   5
+Server@192.168.56.1:35005:   4
+Server@192.168.56.1:35004:   2
+Server@192.168.56.1:35009:   4
+Server@192.168.56.1:35008:   6
+
+Ack: Server@192.168.56.1:35010:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35003:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35014:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35002:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35013:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35001:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35012:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35000:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35011:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35007:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35006:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35005:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35004:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35009:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35008:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+
+##### 2025/05/20 18:18:01
+----- [Server@192.168.56.1:35002] Result:
+ 
+Node id: Server@192.168.56.1:35002
+Recipes: {bslnckod=[bslnckod, Content--bslnckod, Server@192.168.56.1:35002], bufbhhxt=[bufbhhxt, Content--bufbhhxt, Server@192.168.56.1:35002], cjcmogcy=[cjcmogcy, Content--cjcmogcy, Server@192.168.56.1:35002], exfbphoh=[exfbphoh, Content--exfbphoh, Server@192.168.56.1:35002], loqhwbko=[loqhwbko, Content--loqhwbko, Server@192.168.56.1:35002], ntstqswe=[ntstqswe, Content--ntstqswe, Server@192.168.56.1:35002], qqgmtyco=[qqgmtyco, Content--qqgmtyco, Server@192.168.56.1:35002], xmormjqp=[xmormjqp, Content--xmormjqp, Server@192.168.56.1:35002]}
+Log: AddOperation [recipe=[nubinmfb, Content--nubinmfb, Server@192.168.56.1:35014], timestamp=Server@192.168.56.1:35014:   0]
+AddOperation [recipe=[thgyldkk, Content--thgyldkk, Server@192.168.56.1:35014], timestamp=Server@192.168.56.1:35014:   1]
+AddOperation [recipe=[pjtbefbs, Content--pjtbefbs, Server@192.168.56.1:35014], timestamp=Server@192.168.56.1:35014:   2]
+AddOperation [recipe=[hukgmntt, Content--hukgmntt, Server@192.168.56.1:35014], timestamp=Server@192.168.56.1:35014:   3]
+AddOperation [recipe=[dwbvhusl, Content--dwbvhusl, Server@192.168.56.1:35014], timestamp=Server@192.168.56.1:35014:   4]
+AddOperation [recipe=[qqgmtyco, Content--qqgmtyco, Server@192.168.56.1:35002], timestamp=Server@192.168.56.1:35002:   0]
+AddOperation [recipe=[ntstqswe, Content--ntstqswe, Server@192.168.56.1:35002], timestamp=Server@192.168.56.1:35002:   1]
+AddOperation [recipe=[bslnckod, Content--bslnckod, Server@192.168.56.1:35002], timestamp=Server@192.168.56.1:35002:   2]
+AddOperation [recipe=[loqhwbko, Content--loqhwbko, Server@192.168.56.1:35002], timestamp=Server@192.168.56.1:35002:   3]
+AddOperation [recipe=[xmormjqp, Content--xmormjqp, Server@192.168.56.1:35002], timestamp=Server@192.168.56.1:35002:   4]
+AddOperation [recipe=[bufbhhxt, Content--bufbhhxt, Server@192.168.56.1:35002], timestamp=Server@192.168.56.1:35002:   5]
+AddOperation [recipe=[exfbphoh, Content--exfbphoh, Server@192.168.56.1:35002], timestamp=Server@192.168.56.1:35002:   6]
+AddOperation [recipe=[cjcmogcy, Content--cjcmogcy, Server@192.168.56.1:35002], timestamp=Server@192.168.56.1:35002:   7]
+AddOperation [recipe=[toeokbtk, Content--toeokbtk, Server@192.168.56.1:35013], timestamp=Server@192.168.56.1:35013:   0]
+AddOperation [recipe=[tecgecjn, Content--tecgecjn, Server@192.168.56.1:35013], timestamp=Server@192.168.56.1:35013:   1]
+AddOperation [recipe=[rqqnuopy, Content--rqqnuopy, Server@192.168.56.1:35013], timestamp=Server@192.168.56.1:35013:   2]
+AddOperation [recipe=[wfdjepoe, Content--wfdjepoe, Server@192.168.56.1:35013], timestamp=Server@192.168.56.1:35013:   3]
+AddOperation [recipe=[gokqbgkv, Content--gokqbgkv, Server@192.168.56.1:35013], timestamp=Server@192.168.56.1:35013:   5]
+AddOperation [recipe=[nyvqmkfn, Content--nyvqmkfn, Server@192.168.56.1:35001], timestamp=Server@192.168.56.1:35001:   1]
+AddOperation [recipe=[hsivbgva, Content--hsivbgva, Server@192.168.56.1:35012], timestamp=Server@192.168.56.1:35012:   0]
+AddOperation [recipe=[kiaxwgij, Content--kiaxwgij, Server@192.168.56.1:35012], timestamp=Server@192.168.56.1:35012:   1]
+AddOperation [recipe=[rixuhiqx, Content--rixuhiqx, Server@192.168.56.1:35011], timestamp=Server@192.168.56.1:35011:   0]
+AddOperation [recipe=[mefeychf, Content--mefeychf, Server@192.168.56.1:35007], timestamp=Server@192.168.56.1:35007:   0]
+AddOperation [recipe=[ettyiwrn, Content--ettyiwrn, Server@192.168.56.1:35006], timestamp=Server@192.168.56.1:35006:   2]
+AddOperation [recipe=[jkabhfnh, Content--jkabhfnh, Server@192.168.56.1:35006], timestamp=Server@192.168.56.1:35006:   3]
+AddOperation [recipe=[urvgcnev, Content--urvgcnev, Server@192.168.56.1:35006], timestamp=Server@192.168.56.1:35006:   4]
+AddOperation [recipe=[gxtaadox, Content--gxtaadox, Server@192.168.56.1:35006], timestamp=Server@192.168.56.1:35006:   5]
+AddOperation [recipe=[aycnxtlo, Content--aycnxtlo, Server@192.168.56.1:35004], timestamp=Server@192.168.56.1:35004:   0]
+AddOperation [recipe=[nnbdmrei, Content--nnbdmrei, Server@192.168.56.1:35004], timestamp=Server@192.168.56.1:35004:   1]
+AddOperation [recipe=[ppknklyd, Content--ppknklyd, Server@192.168.56.1:35009], timestamp=Server@192.168.56.1:35009:   0]
+AddOperation [recipe=[tqcqfojn, Content--tqcqfojn, Server@192.168.56.1:35009], timestamp=Server@192.168.56.1:35009:   2]
+AddOperation [recipe=[twuuyacl, Content--twuuyacl, Server@192.168.56.1:35009], timestamp=Server@192.168.56.1:35009:   4]
+AddOperation [recipe=[yjitfyag, Content--yjitfyag, Server@192.168.56.1:35008], timestamp=Server@192.168.56.1:35008:   0]
+AddOperation [recipe=[ryxnmheb, Content--ryxnmheb, Server@192.168.56.1:35008], timestamp=Server@192.168.56.1:35008:   4]
+
+Summary: Server@192.168.56.1:35010:   1
+Server@192.168.56.1:35003:   0
+Server@192.168.56.1:35014:   4
+Server@192.168.56.1:35002:   7
+Server@192.168.56.1:35013:   7
+Server@192.168.56.1:35001:   3
+Server@192.168.56.1:35012:   2
+Server@192.168.56.1:35000:   2
+Server@192.168.56.1:35011:   3
+Server@192.168.56.1:35007:   0
+Server@192.168.56.1:35006:   5
+Server@192.168.56.1:35005:   4
+Server@192.168.56.1:35004:   2
+Server@192.168.56.1:35009:   4
+Server@192.168.56.1:35008:   6
+
+Ack: Server@192.168.56.1:35010:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35003:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35014:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35002:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35013:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35001:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35012:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35000:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35011:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35007:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35006:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35005:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35004:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35009:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35008:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+
+##### 2025/05/20 18:18:01
+----- [Server@192.168.56.1:35005] Result:
+ 
+Node id: Server@192.168.56.1:35005
+Recipes: {cselowra=[cselowra, Content--cselowra, Server@192.168.56.1:35005], fxfcahhm=[fxfcahhm, Content--fxfcahhm, Server@192.168.56.1:35005], ixtvkjsx=[ixtvkjsx, Content--ixtvkjsx, Server@192.168.56.1:35005], swyfduxh=[swyfduxh, Content--swyfduxh, Server@192.168.56.1:35005], tdmxdqou=[tdmxdqou, Content--tdmxdqou, Server@192.168.56.1:35005]}
+Log: AddOperation [recipe=[hobacxsq, Content--hobacxsq, Server@192.168.56.1:35010], timestamp=Server@192.168.56.1:35010:   1]
+AddOperation [recipe=[hukgmntt, Content--hukgmntt, Server@192.168.56.1:35014], timestamp=Server@192.168.56.1:35014:   3]
+AddOperation [recipe=[loqhwbko, Content--loqhwbko, Server@192.168.56.1:35002], timestamp=Server@192.168.56.1:35002:   3]
+AddOperation [recipe=[hsivbgva, Content--hsivbgva, Server@192.168.56.1:35012], timestamp=Server@192.168.56.1:35012:   0]
+AddOperation [recipe=[ndqhblaa, Content--ndqhblaa, Server@192.168.56.1:35000], timestamp=Server@192.168.56.1:35000:   0]
+AddOperation [recipe=[rixuhiqx, Content--rixuhiqx, Server@192.168.56.1:35011], timestamp=Server@192.168.56.1:35011:   0]
+AddOperation [recipe=[nfoglywg, Content--nfoglywg, Server@192.168.56.1:35006], timestamp=Server@192.168.56.1:35006:   1]
+AddOperation [recipe=[jkabhfnh, Content--jkabhfnh, Server@192.168.56.1:35006], timestamp=Server@192.168.56.1:35006:   3]
+AddOperation [recipe=[cselowra, Content--cselowra, Server@192.168.56.1:35005], timestamp=Server@192.168.56.1:35005:   0]
+AddOperation [recipe=[ixtvkjsx, Content--ixtvkjsx, Server@192.168.56.1:35005], timestamp=Server@192.168.56.1:35005:   1]
+AddOperation [recipe=[fxfcahhm, Content--fxfcahhm, Server@192.168.56.1:35005], timestamp=Server@192.168.56.1:35005:   2]
+AddOperation [recipe=[tdmxdqou, Content--tdmxdqou, Server@192.168.56.1:35005], timestamp=Server@192.168.56.1:35005:   3]
+AddOperation [recipe=[swyfduxh, Content--swyfduxh, Server@192.168.56.1:35005], timestamp=Server@192.168.56.1:35005:   4]
+AddOperation [recipe=[aycnxtlo, Content--aycnxtlo, Server@192.168.56.1:35004], timestamp=Server@192.168.56.1:35004:   0]
+AddOperation [recipe=[nnbdmrei, Content--nnbdmrei, Server@192.168.56.1:35004], timestamp=Server@192.168.56.1:35004:   1]
+AddOperation [recipe=[ppknklyd, Content--ppknklyd, Server@192.168.56.1:35009], timestamp=Server@192.168.56.1:35009:   0]
+AddOperation [recipe=[tqcqfojn, Content--tqcqfojn, Server@192.168.56.1:35009], timestamp=Server@192.168.56.1:35009:   2]
+AddOperation [recipe=[twuuyacl, Content--twuuyacl, Server@192.168.56.1:35009], timestamp=Server@192.168.56.1:35009:   4]
+AddOperation [recipe=[yjitfyag, Content--yjitfyag, Server@192.168.56.1:35008], timestamp=Server@192.168.56.1:35008:   0]
+AddOperation [recipe=[vrfdiosv, Content--vrfdiosv, Server@192.168.56.1:35008], timestamp=Server@192.168.56.1:35008:   1]
+
+Summary: Server@192.168.56.1:35010:   1
+Server@192.168.56.1:35003:   0
+Server@192.168.56.1:35014:   4
+Server@192.168.56.1:35002:   7
+Server@192.168.56.1:35013:   7
+Server@192.168.56.1:35001:   3
+Server@192.168.56.1:35012:   2
+Server@192.168.56.1:35000:   2
+Server@192.168.56.1:35011:   3
+Server@192.168.56.1:35007:   0
+Server@192.168.56.1:35006:   5
+Server@192.168.56.1:35005:   4
+Server@192.168.56.1:35004:   2
+Server@192.168.56.1:35009:   4
+Server@192.168.56.1:35008:   6
+
+Ack: Server@192.168.56.1:35010:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35003:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35014:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35002:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35013:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35001:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35012:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35000:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35011:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35007:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35006:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35005:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35004:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35009:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35008:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+
+##### 2025/05/20 18:18:01
+----- [Server@192.168.56.1:35004] Result:
+ 
+Node id: Server@192.168.56.1:35004
+Recipes: {aycnxtlo=[aycnxtlo, Content--aycnxtlo, Server@192.168.56.1:35004], myfqvexw=[myfqvexw, Content--myfqvexw, Server@192.168.56.1:35004], nnbdmrei=[nnbdmrei, Content--nnbdmrei, Server@192.168.56.1:35004]}
+Log: AddOperation [recipe=[gyjbjejr, Content--gyjbjejr, Server@192.168.56.1:35010], timestamp=Server@192.168.56.1:35010:   0]
+AddOperation [recipe=[hukgmntt, Content--hukgmntt, Server@192.168.56.1:35014], timestamp=Server@192.168.56.1:35014:   3]
+AddOperation [recipe=[qqgmtyco, Content--qqgmtyco, Server@192.168.56.1:35002], timestamp=Server@192.168.56.1:35002:   0]
+AddOperation [recipe=[loqhwbko, Content--loqhwbko, Server@192.168.56.1:35002], timestamp=Server@192.168.56.1:35002:   3]
+AddOperation [recipe=[toeokbtk, Content--toeokbtk, Server@192.168.56.1:35013], timestamp=Server@192.168.56.1:35013:   0]
+AddOperation [recipe=[tecgecjn, Content--tecgecjn, Server@192.168.56.1:35013], timestamp=Server@192.168.56.1:35013:   1]
+AddOperation [recipe=[kbymmsgv, Content--kbymmsgv, Server@192.168.56.1:35013], timestamp=Server@192.168.56.1:35013:   7]
+AddOperation [recipe=[nyvqmkfn, Content--nyvqmkfn, Server@192.168.56.1:35001], timestamp=Server@192.168.56.1:35001:   1]
+AddOperation [recipe=[hsivbgva, Content--hsivbgva, Server@192.168.56.1:35012], timestamp=Server@192.168.56.1:35012:   0]
+AddOperation [recipe=[ndqhblaa, Content--ndqhblaa, Server@192.168.56.1:35000], timestamp=Server@192.168.56.1:35000:   0]
+AddOperation [recipe=[fxevkqbq, Content--fxevkqbq, Server@192.168.56.1:35011], timestamp=Server@192.168.56.1:35011:   2]
+AddOperation [recipe=[mefeychf, Content--mefeychf, Server@192.168.56.1:35007], timestamp=Server@192.168.56.1:35007:   0]
+AddOperation [recipe=[nfoglywg, Content--nfoglywg, Server@192.168.56.1:35006], timestamp=Server@192.168.56.1:35006:   1]
+AddOperation [recipe=[jkabhfnh, Content--jkabhfnh, Server@192.168.56.1:35006], timestamp=Server@192.168.56.1:35006:   3]
+AddOperation [recipe=[aycnxtlo, Content--aycnxtlo, Server@192.168.56.1:35004], timestamp=Server@192.168.56.1:35004:   0]
+AddOperation [recipe=[nnbdmrei, Content--nnbdmrei, Server@192.168.56.1:35004], timestamp=Server@192.168.56.1:35004:   1]
+AddOperation [recipe=[myfqvexw, Content--myfqvexw, Server@192.168.56.1:35004], timestamp=Server@192.168.56.1:35004:   2]
+AddOperation [recipe=[ppknklyd, Content--ppknklyd, Server@192.168.56.1:35009], timestamp=Server@192.168.56.1:35009:   0]
+AddOperation [recipe=[yjitfyag, Content--yjitfyag, Server@192.168.56.1:35008], timestamp=Server@192.168.56.1:35008:   0]
+
+Summary: Server@192.168.56.1:35010:   1
+Server@192.168.56.1:35003:   0
+Server@192.168.56.1:35014:   4
+Server@192.168.56.1:35002:   7
+Server@192.168.56.1:35013:   7
+Server@192.168.56.1:35001:   3
+Server@192.168.56.1:35012:   2
+Server@192.168.56.1:35000:   2
+Server@192.168.56.1:35011:   3
+Server@192.168.56.1:35007:   0
+Server@192.168.56.1:35006:   5
+Server@192.168.56.1:35005:   4
+Server@192.168.56.1:35004:   2
+Server@192.168.56.1:35009:   4
+Server@192.168.56.1:35008:   6
+
+Ack: Server@192.168.56.1:35010:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35003:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35014:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35002:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35013:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35001:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35012:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35000:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35011:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35007:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35006:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35005:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35004:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35009:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35008:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+
+##### 2025/05/20 18:18:01
+----- [Server@192.168.56.1:35006] Result:
+ 
+Node id: Server@192.168.56.1:35006
+Recipes: {ettyiwrn=[ettyiwrn, Content--ettyiwrn, Server@192.168.56.1:35006], gxtaadox=[gxtaadox, Content--gxtaadox, Server@192.168.56.1:35006], jkabhfnh=[jkabhfnh, Content--jkabhfnh, Server@192.168.56.1:35006], nfoglywg=[nfoglywg, Content--nfoglywg, Server@192.168.56.1:35006], urvgcnev=[urvgcnev, Content--urvgcnev, Server@192.168.56.1:35006], xjowecju=[xjowecju, Content--xjowecju, Server@192.168.56.1:35006]}
+Log: AddOperation [recipe=[gyjbjejr, Content--gyjbjejr, Server@192.168.56.1:35010], timestamp=Server@192.168.56.1:35010:   0]
+AddOperation [recipe=[ktqdgndm, Content--ktqdgndm, Server@192.168.56.1:35003], timestamp=Server@192.168.56.1:35003:   0]
+AddOperation [recipe=[hukgmntt, Content--hukgmntt, Server@192.168.56.1:35014], timestamp=Server@192.168.56.1:35014:   3]
+AddOperation [recipe=[loqhwbko, Content--loqhwbko, Server@192.168.56.1:35002], timestamp=Server@192.168.56.1:35002:   3]
+AddOperation [recipe=[wfdjepoe, Content--wfdjepoe, Server@192.168.56.1:35013], timestamp=Server@192.168.56.1:35013:   3]
+AddOperation [recipe=[ndqhblaa, Content--ndqhblaa, Server@192.168.56.1:35000], timestamp=Server@192.168.56.1:35000:   0]
+AddOperation [recipe=[rixuhiqx, Content--rixuhiqx, Server@192.168.56.1:35011], timestamp=Server@192.168.56.1:35011:   0]
+AddOperation [recipe=[xjowecju, Content--xjowecju, Server@192.168.56.1:35006], timestamp=Server@192.168.56.1:35006:   0]
+AddOperation [recipe=[nfoglywg, Content--nfoglywg, Server@192.168.56.1:35006], timestamp=Server@192.168.56.1:35006:   1]
+AddOperation [recipe=[ettyiwrn, Content--ettyiwrn, Server@192.168.56.1:35006], timestamp=Server@192.168.56.1:35006:   2]
+AddOperation [recipe=[jkabhfnh, Content--jkabhfnh, Server@192.168.56.1:35006], timestamp=Server@192.168.56.1:35006:   3]
+AddOperation [recipe=[urvgcnev, Content--urvgcnev, Server@192.168.56.1:35006], timestamp=Server@192.168.56.1:35006:   4]
+AddOperation [recipe=[gxtaadox, Content--gxtaadox, Server@192.168.56.1:35006], timestamp=Server@192.168.56.1:35006:   5]
+AddOperation [recipe=[nnbdmrei, Content--nnbdmrei, Server@192.168.56.1:35004], timestamp=Server@192.168.56.1:35004:   1]
+AddOperation [recipe=[yjitfyag, Content--yjitfyag, Server@192.168.56.1:35008], timestamp=Server@192.168.56.1:35008:   0]
+
+Summary: Server@192.168.56.1:35010:   1
+Server@192.168.56.1:35003:   0
+Server@192.168.56.1:35014:   4
+Server@192.168.56.1:35002:   7
+Server@192.168.56.1:35013:   7
+Server@192.168.56.1:35001:   3
+Server@192.168.56.1:35012:   2
+Server@192.168.56.1:35000:   2
+Server@192.168.56.1:35011:   3
+Server@192.168.56.1:35007:   0
+Server@192.168.56.1:35006:   5
+Server@192.168.56.1:35005:   4
+Server@192.168.56.1:35004:   2
+Server@192.168.56.1:35009:   4
+Server@192.168.56.1:35008:   6
+
+Ack: Server@192.168.56.1:35010:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35003:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35014:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35002:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35013:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35001:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35012:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35000:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35011:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35007:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35006:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35005:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35004:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35009:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35008:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+
+##### 2025/05/20 18:18:01
+----- [Server@192.168.56.1:35007] Result:
+ 
+Node id: Server@192.168.56.1:35007
+Recipes: {mefeychf=[mefeychf, Content--mefeychf, Server@192.168.56.1:35007]}
+Log: AddOperation [recipe=[hsivbgva, Content--hsivbgva, Server@192.168.56.1:35012], timestamp=Server@192.168.56.1:35012:   0]
+AddOperation [recipe=[rixuhiqx, Content--rixuhiqx, Server@192.168.56.1:35011], timestamp=Server@192.168.56.1:35011:   0]
+AddOperation [recipe=[mefeychf, Content--mefeychf, Server@192.168.56.1:35007], timestamp=Server@192.168.56.1:35007:   0]
+AddOperation [recipe=[cselowra, Content--cselowra, Server@192.168.56.1:35005], timestamp=Server@192.168.56.1:35005:   0]
+AddOperation [recipe=[ppknklyd, Content--ppknklyd, Server@192.168.56.1:35009], timestamp=Server@192.168.56.1:35009:   0]
+AddOperation [recipe=[fscufllj, Content--fscufllj, Server@192.168.56.1:35009], timestamp=Server@192.168.56.1:35009:   1]
+AddOperation [recipe=[yjitfyag, Content--yjitfyag, Server@192.168.56.1:35008], timestamp=Server@192.168.56.1:35008:   0]
+AddOperation [recipe=[vrfdiosv, Content--vrfdiosv, Server@192.168.56.1:35008], timestamp=Server@192.168.56.1:35008:   1]
+
+Summary: Server@192.168.56.1:35010:   1
+Server@192.168.56.1:35003:   0
+Server@192.168.56.1:35014:   4
+Server@192.168.56.1:35002:   7
+Server@192.168.56.1:35013:   7
+Server@192.168.56.1:35001:   3
+Server@192.168.56.1:35012:   2
+Server@192.168.56.1:35000:   2
+Server@192.168.56.1:35011:   3
+Server@192.168.56.1:35007:   0
+Server@192.168.56.1:35006:   5
+Server@192.168.56.1:35005:   4
+Server@192.168.56.1:35004:   2
+Server@192.168.56.1:35009:   4
+Server@192.168.56.1:35008:   6
+
+Ack: Server@192.168.56.1:35010:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35003:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35014:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35002:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35013:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35001:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35012:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35000:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35011:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35007:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35006:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35005:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35004:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35009:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35008:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+
+##### 2025/05/20 18:18:01
+----- [Server@192.168.56.1:35008] Result:
+ 
+Node id: Server@192.168.56.1:35008
+Recipes: {gggfprdj=[gggfprdj, Content--gggfprdj, Server@192.168.56.1:35008], guslaojx=[guslaojx, Content--guslaojx, Server@192.168.56.1:35008], mqusnltx=[mqusnltx, Content--mqusnltx, Server@192.168.56.1:35008], ryxnmheb=[ryxnmheb, Content--ryxnmheb, Server@192.168.56.1:35008], vrfdiosv=[vrfdiosv, Content--vrfdiosv, Server@192.168.56.1:35008], wisiuqiv=[wisiuqiv, Content--wisiuqiv, Server@192.168.56.1:35008], yjitfyag=[yjitfyag, Content--yjitfyag, Server@192.168.56.1:35008]}
+Log: AddOperation [recipe=[hobacxsq, Content--hobacxsq, Server@192.168.56.1:35010], timestamp=Server@192.168.56.1:35010:   1]
+AddOperation [recipe=[nubinmfb, Content--nubinmfb, Server@192.168.56.1:35014], timestamp=Server@192.168.56.1:35014:   0]
+AddOperation [recipe=[tecgecjn, Content--tecgecjn, Server@192.168.56.1:35013], timestamp=Server@192.168.56.1:35013:   1]
+AddOperation [recipe=[ndqhblaa, Content--ndqhblaa, Server@192.168.56.1:35000], timestamp=Server@192.168.56.1:35000:   0]
+AddOperation [recipe=[rixuhiqx, Content--rixuhiqx, Server@192.168.56.1:35011], timestamp=Server@192.168.56.1:35011:   0]
+AddOperation [recipe=[hclaibop, Content--hclaibop, Server@192.168.56.1:35011], timestamp=Server@192.168.56.1:35011:   1]
+AddOperation [recipe=[xjowecju, Content--xjowecju, Server@192.168.56.1:35006], timestamp=Server@192.168.56.1:35006:   0]
+AddOperation [recipe=[jkabhfnh, Content--jkabhfnh, Server@192.168.56.1:35006], timestamp=Server@192.168.56.1:35006:   3]
+AddOperation [recipe=[fscufllj, Content--fscufllj, Server@192.168.56.1:35009], timestamp=Server@192.168.56.1:35009:   1]
+AddOperation [recipe=[yjitfyag, Content--yjitfyag, Server@192.168.56.1:35008], timestamp=Server@192.168.56.1:35008:   0]
+AddOperation [recipe=[vrfdiosv, Content--vrfdiosv, Server@192.168.56.1:35008], timestamp=Server@192.168.56.1:35008:   1]
+AddOperation [recipe=[guslaojx, Content--guslaojx, Server@192.168.56.1:35008], timestamp=Server@192.168.56.1:35008:   2]
+AddOperation [recipe=[wisiuqiv, Content--wisiuqiv, Server@192.168.56.1:35008], timestamp=Server@192.168.56.1:35008:   3]
+AddOperation [recipe=[ryxnmheb, Content--ryxnmheb, Server@192.168.56.1:35008], timestamp=Server@192.168.56.1:35008:   4]
+AddOperation [recipe=[mqusnltx, Content--mqusnltx, Server@192.168.56.1:35008], timestamp=Server@192.168.56.1:35008:   5]
+AddOperation [recipe=[gggfprdj, Content--gggfprdj, Server@192.168.56.1:35008], timestamp=Server@192.168.56.1:35008:   6]
+
+Summary: Server@192.168.56.1:35010:   1
+Server@192.168.56.1:35003:   0
+Server@192.168.56.1:35014:   4
+Server@192.168.56.1:35002:   7
+Server@192.168.56.1:35013:   7
+Server@192.168.56.1:35001:   3
+Server@192.168.56.1:35012:   2
+Server@192.168.56.1:35000:   2
+Server@192.168.56.1:35011:   3
+Server@192.168.56.1:35007:   0
+Server@192.168.56.1:35006:   5
+Server@192.168.56.1:35005:   4
+Server@192.168.56.1:35004:   2
+Server@192.168.56.1:35009:   4
+Server@192.168.56.1:35008:   6
+
+Ack: Server@192.168.56.1:35010:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35003:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35014:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35002:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35013:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35001:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35012:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35000:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35011:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35007:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35006:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35005:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35004:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35009:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35008:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+
+##### 2025/05/20 18:18:01
+----- [Server@192.168.56.1:35010] Result:
+ 
+Node id: Server@192.168.56.1:35010
+Recipes: {gyjbjejr=[gyjbjejr, Content--gyjbjejr, Server@192.168.56.1:35010], hobacxsq=[hobacxsq, Content--hobacxsq, Server@192.168.56.1:35010]}
+Log: AddOperation [recipe=[gyjbjejr, Content--gyjbjejr, Server@192.168.56.1:35010], timestamp=Server@192.168.56.1:35010:   0]
+AddOperation [recipe=[hobacxsq, Content--hobacxsq, Server@192.168.56.1:35010], timestamp=Server@192.168.56.1:35010:   1]
+AddOperation [recipe=[tecgecjn, Content--tecgecjn, Server@192.168.56.1:35013], timestamp=Server@192.168.56.1:35013:   1]
+AddOperation [recipe=[hsivbgva, Content--hsivbgva, Server@192.168.56.1:35012], timestamp=Server@192.168.56.1:35012:   0]
+AddOperation [recipe=[ndqhblaa, Content--ndqhblaa, Server@192.168.56.1:35000], timestamp=Server@192.168.56.1:35000:   0]
+AddOperation [recipe=[rixuhiqx, Content--rixuhiqx, Server@192.168.56.1:35011], timestamp=Server@192.168.56.1:35011:   0]
+AddOperation [recipe=[hclaibop, Content--hclaibop, Server@192.168.56.1:35011], timestamp=Server@192.168.56.1:35011:   1]
+AddOperation [recipe=[mefeychf, Content--mefeychf, Server@192.168.56.1:35007], timestamp=Server@192.168.56.1:35007:   0]
+AddOperation [recipe=[xjowecju, Content--xjowecju, Server@192.168.56.1:35006], timestamp=Server@192.168.56.1:35006:   0]
+AddOperation [recipe=[urvgcnev, Content--urvgcnev, Server@192.168.56.1:35006], timestamp=Server@192.168.56.1:35006:   4]
+AddOperation [recipe=[ppknklyd, Content--ppknklyd, Server@192.168.56.1:35009], timestamp=Server@192.168.56.1:35009:   0]
+AddOperation [recipe=[fscufllj, Content--fscufllj, Server@192.168.56.1:35009], timestamp=Server@192.168.56.1:35009:   1]
+AddOperation [recipe=[vrfdiosv, Content--vrfdiosv, Server@192.168.56.1:35008], timestamp=Server@192.168.56.1:35008:   1]
+
+Summary: Server@192.168.56.1:35010:   1
+Server@192.168.56.1:35003:   0
+Server@192.168.56.1:35014:   4
+Server@192.168.56.1:35002:   7
+Server@192.168.56.1:35013:   7
+Server@192.168.56.1:35001:   3
+Server@192.168.56.1:35012:   2
+Server@192.168.56.1:35000:   2
+Server@192.168.56.1:35011:   3
+Server@192.168.56.1:35007:   0
+Server@192.168.56.1:35006:   5
+Server@192.168.56.1:35005:   4
+Server@192.168.56.1:35004:   2
+Server@192.168.56.1:35009:   4
+Server@192.168.56.1:35008:   6
+
+Ack: Server@192.168.56.1:35010:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35003:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35014:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35002:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35013:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35001:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35012:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35000:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35011:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35007:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35006:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35005:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35004:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35009:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+Server@192.168.56.1:35008:   Server@192.168.56.1:35010:   -1000
+Server@192.168.56.1:35003:   -1000
+Server@192.168.56.1:35014:   -1000
+Server@192.168.56.1:35002:   -1000
+Server@192.168.56.1:35013:   -1000
+Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35012:   -1000
+Server@192.168.56.1:35000:   -1000
+Server@192.168.56.1:35011:   -1000
+Server@192.168.56.1:35007:   -1000
+Server@192.168.56.1:35006:   -1000
+Server@192.168.56.1:35005:   -1000
+Server@192.168.56.1:35004:   -1000
+Server@192.168.56.1:35009:   -1000
+Server@192.168.56.1:35008:   -1000
+
+================================================

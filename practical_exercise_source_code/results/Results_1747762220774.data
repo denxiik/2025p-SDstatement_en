@@ -1,0 +1,50 @@
+
+##### 2025/05/20 19:30:20
+----- [Server@192.168.56.1:35000] Result:
+ 
+Node id: Server@192.168.56.1:35000
+Recipes: {almasogi=[almasogi, Content--almasogi, Server@192.168.56.1:35000], camvjxvo=[camvjxvo, Content--camvjxvo, Server@192.168.56.1:35000], dwnmlajp=[dwnmlajp, Content--dwnmlajp, Server@192.168.56.1:35000]}
+Log: AddOperation [recipe=[atikhvsj, Content--atikhvsj, Server@192.168.56.1:35001], timestamp=Server@192.168.56.1:35001:   0]
+AddOperation [recipe=[ypthdudx, Content--ypthdudx, Server@192.168.56.1:35001], timestamp=Server@192.168.56.1:35001:   1]
+AddOperation [recipe=[hbtxwnac, Content--hbtxwnac, Server@192.168.56.1:35001], timestamp=Server@192.168.56.1:35001:   2]
+AddOperation [recipe=[rlamrcnp, Content--rlamrcnp, Server@192.168.56.1:35001], timestamp=Server@192.168.56.1:35001:   3]
+AddOperation [recipe=[ulxndcsm, Content--ulxndcsm, Server@192.168.56.1:35001], timestamp=Server@192.168.56.1:35001:   4]
+AddOperation [recipe=[jksuwtmv, Content--jksuwtmv, Server@192.168.56.1:35001], timestamp=Server@192.168.56.1:35001:   5]
+AddOperation [recipe=[minnqbrc, Content--minnqbrc, Server@192.168.56.1:35001], timestamp=Server@192.168.56.1:35001:   6]
+AddOperation [recipe=[almasogi, Content--almasogi, Server@192.168.56.1:35000], timestamp=Server@192.168.56.1:35000:   0]
+AddOperation [recipe=[dwnmlajp, Content--dwnmlajp, Server@192.168.56.1:35000], timestamp=Server@192.168.56.1:35000:   1]
+AddOperation [recipe=[camvjxvo, Content--camvjxvo, Server@192.168.56.1:35000], timestamp=Server@192.168.56.1:35000:   2]
+
+Summary: Server@192.168.56.1:35001:   6
+Server@192.168.56.1:35000:   2
+
+Ack: Server@192.168.56.1:35001:   Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35000:   -1000
+
+Server@192.168.56.1:35000:   Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35000:   -1000
+
+
+##### 2025/05/20 19:30:20
+----- [Server@192.168.56.1:35001] Result:
+ 
+Node id: Server@192.168.56.1:35001
+Recipes: {atikhvsj=[atikhvsj, Content--atikhvsj, Server@192.168.56.1:35001], hbtxwnac=[hbtxwnac, Content--hbtxwnac, Server@192.168.56.1:35001], jksuwtmv=[jksuwtmv, Content--jksuwtmv, Server@192.168.56.1:35001], minnqbrc=[minnqbrc, Content--minnqbrc, Server@192.168.56.1:35001], rlamrcnp=[rlamrcnp, Content--rlamrcnp, Server@192.168.56.1:35001], ulxndcsm=[ulxndcsm, Content--ulxndcsm, Server@192.168.56.1:35001], ypthdudx=[ypthdudx, Content--ypthdudx, Server@192.168.56.1:35001]}
+Log: AddOperation [recipe=[atikhvsj, Content--atikhvsj, Server@192.168.56.1:35001], timestamp=Server@192.168.56.1:35001:   0]
+AddOperation [recipe=[ypthdudx, Content--ypthdudx, Server@192.168.56.1:35001], timestamp=Server@192.168.56.1:35001:   1]
+AddOperation [recipe=[hbtxwnac, Content--hbtxwnac, Server@192.168.56.1:35001], timestamp=Server@192.168.56.1:35001:   2]
+AddOperation [recipe=[rlamrcnp, Content--rlamrcnp, Server@192.168.56.1:35001], timestamp=Server@192.168.56.1:35001:   3]
+AddOperation [recipe=[ulxndcsm, Content--ulxndcsm, Server@192.168.56.1:35001], timestamp=Server@192.168.56.1:35001:   4]
+AddOperation [recipe=[jksuwtmv, Content--jksuwtmv, Server@192.168.56.1:35001], timestamp=Server@192.168.56.1:35001:   5]
+AddOperation [recipe=[minnqbrc, Content--minnqbrc, Server@192.168.56.1:35001], timestamp=Server@192.168.56.1:35001:   6]
+
+Summary: Server@192.168.56.1:35001:   6
+Server@192.168.56.1:35000:   2
+
+Ack: Server@192.168.56.1:35001:   Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35000:   -1000
+
+Server@192.168.56.1:35000:   Server@192.168.56.1:35001:   -1000
+Server@192.168.56.1:35000:   -1000
+
+================================================
