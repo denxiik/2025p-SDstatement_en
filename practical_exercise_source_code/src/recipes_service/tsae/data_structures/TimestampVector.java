@@ -28,6 +28,7 @@ import java.util.Arrays;
 import java.util.Enumeration;
 import java.util.Iterator;
 import java.util.List;
+import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
 import edu.uoc.dpcs.lsim.logger.LoggerManager.Level;
@@ -113,17 +114,29 @@ public class TimestampVector implements Serializable{
 	 * After merging, local node will have the smallest timestamp for each node.
 	 *  @param tsVector (timestamp vector)
 	 */
-	public void mergeMin(TimestampVector tsVector){
-		for (String hostId : tsVector.timestampVector.keySet()) {
-            Timestamp otherTimestamp = tsVector.timestampVector.get(hostId);
-            Timestamp localTimestamp = timestampVector.get(hostId);
-            if (otherTimestamp != null && localTimestamp != null && otherTimestamp.compare(localTimestamp) < 0) {
-                timestampVector.put(hostId, otherTimestamp);
-            } else if(localTimestamp == null){
-                timestampVector.put(hostId, otherTimestamp);
+	public synchronized void mergeMin(TimestampVector other) {
+        if (other == null) {
+            return;
+        }
+        /**
+         * Similar to update max with the difference that I also add new entries if they
+         * don't yet exist in the current timestamp vector. This is due to the way,
+         * this function is used by TimetampMatrix.
+         */
+
+        for (Map.Entry<String, Timestamp> entry : other.timestampVector.entrySet()) {
+            String node = entry.getKey();
+            Timestamp otherTimestamp = entry.getValue();
+            Timestamp thisTimestamp = this.getLast(node);
+            
+            if (thisTimestamp == null) {
+                this.timestampVector.put(node, otherTimestamp);
+            } else if (otherTimestamp.compare(thisTimestamp) < 0) {
+                this.timestampVector.replace(node, otherTimestamp);
             }
         }
-	}
+
+    }
 	
 	/**
 	 * clone

@@ -26,6 +26,7 @@ import java.util.Enumeration;
 import java.util.Iterator;
 import java.util.List;
 import java.util.ListIterator;
+import java.util.Map;
 import java.util.Vector;
 import java.util.concurrent.ConcurrentHashMap;
 
@@ -129,8 +130,41 @@ public class Log implements Serializable{
 	 * ackSummary. 
 	 * @param ack: ackSummary.
 	 */
-	public void purgeLog(TimestampMatrix ack){
-	}
+    public synchronized void purgeLog(TimestampMatrix ack) {
+        /**
+         * Create a minTimestampVector from the matrix. Only logs older than this will be purged later.
+         * minTimestampVector guarantees that all clients have received the information up to that timestamp.
+         */
+        TimestampVector minTimestampVector = ack.minTimestampVector();
+        
+        /**
+         * Go through all entries in the log map.
+         */
+        for (Map.Entry<String, List<Operation>> entry : log.entrySet()) {
+            String participant = entry.getKey();
+            List<Operation> operations = entry.getValue();
+            Timestamp lastTimestamp = minTimestampVector.getLast(participant);
+            /**
+             * Take the last timestamp for the node/host/participant.
+             * If there is none, ignore it and continue with the loop
+             */
+            if (lastTimestamp == null) {
+                continue;
+            }
+
+            /**
+             * Go from back to front through all the operations and delete those, 
+             * which are older than the latest received Timestamp.
+             */
+            for (int i = operations.size() - 1; i >= 0; i--) {
+                Operation op = operations.get(i);
+
+                if (op.getTimestamp().compare(lastTimestamp) < 0) {
+                    operations.remove(i);
+                }
+            }
+        }
+    }
 
 	/**
 	 * equals
