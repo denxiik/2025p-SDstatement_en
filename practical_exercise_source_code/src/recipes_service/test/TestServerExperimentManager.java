@@ -250,34 +250,34 @@ public class TestServerExperimentManager extends Thread{
 		FileWriter outputStream = null;
 		if (logResults){
 			File file = new File(path, "Results_"+System.currentTimeMillis()+".data");
-			try {
-				//				outputStream = new FileWriter(results.get(0).getGroupId()+".data",true);
-				outputStream = new FileWriter(file,true);
-				DateFormat dateFormat = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
-				outputStream.append("\n##### " + (dateFormat.format(new java.util.Date())).toString()
-						);
-				outputStream.append("\n----- [" + finalResults.get(0).getNodeId() + "] Result:\n " + finalResults.get(0));
-			} catch (IOException e) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
-			} 
+//			try {
+//				//				outputStream = new FileWriter(results.get(0).getGroupId()+".data",true);
+//				outputStream = new FileWriter(file,true);
+//				DateFormat dateFormat = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
+//				outputStream.append("\n##### " + (dateFormat.format(new java.util.Date())).toString()
+//						);
+//				outputStream.append("\n----- [" + finalResults.get(0).getNodeId() + "] Result:\n " + finalResults.get(0));
+//			} catch (IOException e) {
+//				// TODO Auto-generated catch block
+//				e.printStackTrace();
+//			} 
 		}
 		equal = true;
 		for (int i = 1 ; i<finalResults.size() /*&& equal*/; i++){
 			if (purge_log) equal = equal && finalResults.get(0).equals(finalResults.get(i));
 			else equal = equal && finalResults.get(0).equalsNoACK(finalResults.get(i));
 //			if (!equal){
-				System.out.println("\n##### ["+finalResults.get(i).getNodeId()+"] Result:\n " + finalResults.get(i));
-				if (logResults){
-					try {
-						DateFormat dateFormat = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
-						outputStream.append("\n##### " + (dateFormat.format(new java.util.Date())).toString());
-						outputStream.append("\n----- ["+finalResults.get(i).getNodeId()+"] Result:\n " + finalResults.get(i));
-					} catch (IOException e) {
-						// TODO Auto-generated catch block
-						e.printStackTrace();
-					}
-				}
+//				System.out.println("\n##### ["+finalResults.get(i).getNodeId()+"] Result:\n " + finalResults.get(i));
+//				if (logResults){
+//					try {
+//						DateFormat dateFormat = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
+//						outputStream.append("\n##### " + (dateFormat.format(new java.util.Date())).toString());
+//						outputStream.append("\n----- ["+finalResults.get(i).getNodeId()+"] Result:\n " + finalResults.get(i));
+//					} catch (IOException e) {
+//						// TODO Auto-generated catch block
+//						e.printStackTrace();
+//					}
+//				}
 //			}
 		}
 
