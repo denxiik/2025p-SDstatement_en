@@ -140,29 +140,49 @@ public class ServerData {
 	// *** add and remove recipes
 	// ******************************
 	public synchronized void addRecipe(String recipeTitle, String recipe) {
+//      System.out.println("Adding recipe...");
+      Timestamp timestamp = nextTimestamp();
+      Recipe rcpe = new Recipe(recipeTitle, recipe, id, timestamp);
+      Operation op = new AddOperation(rcpe, timestamp);
 
-		Timestamp timestamp= nextTimestamp();
-		Recipe rcpe = new Recipe(recipeTitle, recipe, id, timestamp);
-		Operation op=new AddOperation(rcpe, timestamp);
-
-		this.log.add(op);
-		this.summary.updateTimestamp(timestamp);
-		this.recipes.add(rcpe);
-		LSimLogger.log(Level.TRACE,"The recipe '"+recipeTitle+"' has been added");
-
-	}
-	
-	public synchronized void removeRecipe(String recipeTitle){
-		Timestamp timestamp= nextTimestamp();
+      this.log.add(op);
+      this.summary.updateTimestamp(timestamp);
+      this.recipes.add(rcpe);
+//      System.out.println("...added recipe!");
+  }
+	 /**
+     * Removes the recipe and adds a remove operation to the log.
+     */
+    public synchronized void removeRecipe(String recipeTitle) {
+        Timestamp timestamp = nextTimestamp();
         Recipe rcpe = this.recipes.get(recipeTitle);
-        if(rcpe != null){
-            RemoveOperation op = new RemoveOperation(recipeTitle, rcpe.getTimestamp(), timestamp);
-            this.log.add(op);
-            this.summary.updateTimestamp(timestamp);
-            this.recipes.remove(recipeTitle);
-            this.tombstones.add(timestamp);
+        Operation op = new RemoveOperation(recipeTitle, rcpe.getTimestamp(), timestamp);
+
+        this.log.add(op);
+        this.summary.updateTimestamp(timestamp);
+        this.recipes.remove(recipeTitle);
+//        System.err.println("Error: removeRecipe method (recipesService.serverData) not yet implemented");
+    }
+
+    /**
+     * When an operation is retrieved from a different peer, it is executed by (in this case)
+     * adding the recipe and remembering the operation in the log.
+     */
+    public synchronized void execOperation(AddOperation addOp) {
+        if (this.log.add(addOp)) {
+            this.recipes.add(addOp.getRecipe());
         }
-	}
+    }
+
+    /**
+     * When an operation is retrieved from a different peer, it is executed by (in this case)
+     * removing the recipe and remembering the operation in the log.
+     */
+    public synchronized void execOperation(RemoveOperation removeOp) {
+        if (this.log.add(removeOp)) {
+            this.recipes.remove(removeOp.getRecipeTitle());
+        }
+    }
 	
 	private synchronized void purgeTombstones(){
 		if (ack == null){
