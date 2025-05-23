@@ -129,8 +129,26 @@ public class Log implements Serializable{
 	 * ackSummary. 
 	 * @param ack: ackSummary.
 	 */
-	public void purgeLog(TimestampMatrix ack){
-	}
+   	public void purgeLog(TimestampMatrix ack){
+   		List<Operation> messages;
+   		TimestampVector minimalack;
+   		minimalack = ack.minTimestampVector();
+   		for (ConcurrentHashMap.Entry<String, List<Operation>> entry: log.entrySet() )
+   		{
+   			String hostId = entry.getKey();
+   			messages = entry.getValue();
+   			Timestamp last = minimalack.getLast(hostId); 
+   			Iterator<Operation> iterator = messages.iterator(); 
+   			if(!last.isNullTimestamp()) { 
+   				while(iterator.hasNext())
+   				{
+   					Operation operation = iterator.next();
+   					if (last.compare (operation.getTimestamp())>=0) 
+   						iterator.remove();
+   				}
+   			}
+   		}
+   	}
 
 	/**
 	 * equals
